@@ -19,4 +19,6 @@ for each part
 ## The used technologies
 Java EE    
 JDK-7  
+HTML
+css
 tomcat-server  
